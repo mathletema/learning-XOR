@@ -4,7 +4,7 @@ This script attempts to randomly learn the XOR function.
 
 ## Output
 
-!(output.png)[output.png]
+![output.png](./out.png)
 
 ## How to Run
 
